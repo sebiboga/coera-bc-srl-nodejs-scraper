@@ -1,13 +1,13 @@
 /**
- * EPAM Job Scraper - Main Entry Point
- * 
- * PURPOSE: Scrapes job listings from EPAM Careers Romania API and stores them in Solr.
- * This is the primary orchestrator that coordinates company validation, job scraping,
- * data transformation, and Solr storage.
+ * COERA BC SRL Job Scraper - Main Entry Point
+ *
+ * Scrapes job listings from co-era.com/careers (single-page HTML) and stores
+ * them in Solr. Uses cheerio (HTML parsing), not an API.
  */
 
 import fetch from "node-fetch";
 import fs from "fs";
+import * as cheerio from "cheerio";
 import { fileURLToPath } from "url";
 import { validateAndGetCompany } from "./company.js";
 import { querySOLR, deleteJobByUrl, upsertJobs, upsertCompany } from "./solr.js";
@@ -20,13 +20,10 @@ import companyConfig from "./config/company.js";
 
 const COMPANY_CIF = companyConfig.cif;
 const JOB_BASE = companyConfig.apiBase;
-const ROMANIA_COUNTRY_ID = companyConfig.apiCountryId;
+const CAREER_URL = companyConfig.careerUrl;
 
 // Request timeout in milliseconds (10 seconds)
 const TIMEOUT = 10000;
-
-// Number of jobs to fetch per API page request
-const PAGE_SIZE = 10;
 
 // Global variable to store company name after validation
 let COMPANY_NAME = null;
@@ -42,161 +39,115 @@ let COMPANY_NAME = null;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ============================================================================
-// API FUNCTIONS - Fetching data from EPAM Careers
+// API FUNCTIONS - Fetching data from COERA Careers
 // ============================================================================
 
 /**
- * Fetches a single page of jobs from EPAM Careers API
- * @param {number} pageNum - Page number (1-indexed)
- * @returns {Promise<Object>} - API response with job data
+ * Fetches the COERA careers page HTML.
+ * @returns {Promise<string>} The raw HTML
  */
-async function fetchJobsPage(pageNum) {
-  // Calculate offset for pagination (API uses 0-based indexing)
-  const from = (pageNum - 1) * PAGE_SIZE;
-  
-  // Build EPAM API URL with filters for Romania jobs only
-  const url = `https://careers.epam.com/api/jobs/v2/search/careers-i18n?from=${from}&lang=en&size=${PAGE_SIZE}&sortBy=relevance%3Brelocation%3Dasc&websiteLocale=en-us&facets=country%3D${ROMANIA_COUNTRY_ID}`;
-  
-  const res = await fetch(url, {
+async function fetchJobsHtml() {
+  const res = await fetch(CAREER_URL, {
     headers: {
       "User-Agent": "job_seeker_ro_spider",
-      "Accept": "application/json"
+      "Accept": "text/html"
     }
   });
-  
-  if (!res.ok) {
-    throw new Error(`API error ${res.status} for page=${pageNum}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status} fetching ${CAREER_URL}`);
+  return res.text();
+}
+
+const ROMANIAN_CITIES = [
+  "București", "Bucuresti", "Cluj-Napoca", "Cluj Napoca", "Brașov", "Brasov",
+  "Timișoara", "Timisoara", "Iași", "Iasi", "Sibiu", "Oradea", "Constanța", "Constanta"
+];
+
+/**
+ * Extracts Romanian cities mentioned in the title's location segment.
+ * COERA encodes locations after a pipe in titles like:
+ *   "Go beyond for your role! | Cluj & Brasov"
+ *
+ * @param {string} title
+ * @returns {string[]} unique normalized city names
+ */
+function extractCities(title) {
+  if (!title || !title.includes("|")) return [];
+  const locationPart = title.split("|").slice(1).join("|");
+  const found = new Set();
+  for (const city of ROMANIAN_CITIES) {
+    if (new RegExp(`\\b${city.replace(/[-\\s]/g, "[-\\s]?")}\\b`, "i").test(locationPart)) {
+      // Prefer diacritic form
+      const canonical = city
+        .replace("Bucuresti", "București")
+        .replace("Brasov", "Brașov")
+        .replace("Timisoara", "Timișoara")
+        .replace("Iasi", "Iași")
+        .replace("Constanta", "Constanța");
+      found.add(canonical);
+    }
   }
-  
-  const data = await res.json();
-  return data;
+  return [...found];
+}
+
+/**
+ * Parses COERA careers HTML.
+ * Selector: a.careerButton
+ * Title is in the `title` attribute (with optional "| City1 & City2" suffix).
+ *
+ * @param {string} html
+ * @returns {{jobs: Array<Object>, total: number}}
+ */
+function parseHtmlJobs(html) {
+  const $ = cheerio.load(html);
+  const jobs = [];
+
+  $("a.careerButton").each((_, el) => {
+    const $a = $(el);
+    const href = ($a.attr("href") || "").trim();
+    const rawTitle = ($a.attr("title") || $a.text()).trim();
+    if (!rawTitle || !href) return;
+
+    // Strip the trailing "| Cities" segment from the displayed title
+    const cleanTitle = rawTitle.split("|")[0].trim();
+    const url = href.startsWith("http") ? href : `${JOB_BASE}${href.startsWith("/") ? "" : "/"}${href}`;
+
+    const cities = extractCities(rawTitle);
+    const location = cities.length > 0 ? cities : [companyConfig.defaultLocation];
+
+    // COERA is a software dev consultancy with HQ in Cluj — most positions hybrid
+    const workmode = "hybrid";
+
+    jobs.push({ url, title: cleanTitle, workmode, location, tags: [] });
+  });
+
+  return { jobs, total: jobs.length };
 }
 
 // ============================================================================
-// DATA PARSING - Converting API response to our job model
+// SCRAPING LOGIC - Single-page collection (no pagination)
 // ============================================================================
 
 /**
- * Parses raw API response into our standardized job format
- * @param {Object} apiData - Raw response from EPAM API
- * @returns {Object} - Object containing jobs array and total count
+ * Scrapes all COERA job listings in a single GET to /careers/.
+ * @param {boolean} _testOnlyOnePage - Ignored; signature kept for template compatibility
+ * @returns {Promise<Array>}
  */
-function parseApiJobs(apiData) {
-  // Extract jobs array from API response (handle missing data gracefully)
-  const jobs = apiData.data?.jobs || [];
-  const total = apiData.data?.total || 0;
-  
-  return {
-    jobs: jobs.map(job => {
-      // Determine work mode based on vacancy type
-      // Maps EPAM's vacancy_type to our standardized: remote, on-site, or hybrid
-      const vacancyType = job.vacancy_type || "Hybrid";
-      let workmode = "hybrid";
-      if (vacancyType.toLowerCase().includes("remote")) workmode = "remote";
-      else if (vacancyType.toLowerCase().includes("office")) workmode = "on-site";
-      
-      // Extract location - prefer city names, fallback to country
-      const location = [];
-      if (job.city && job.city.length > 0) {
-        for (const c of job.city) {
-          if (c.name) location.push(c.name);
-        }
-      } else if (job.country?.[0]?.name) {
-        location.push(job.country[0].name);
-      }
-      
-      // Build job URL - use SEO URL if available, otherwise construct from UID
-      const uid = job.uid || "";
-      const seoUrl = job.seo?.url || `/en/vacancy/${uid}_en`;
-      const url = seoUrl.startsWith('http') ? seoUrl : `${JOB_BASE}${seoUrl}`;
-      
-      // Normalize skill tags to lowercase for consistency
-      const tags = (job.skills || []).map(s => s.toLowerCase());
-      
-      // Return standardized job object
-      return {
-        url,
-        title: job.name,
-        uid: job.uid,
-        workmode,
-        location,
-        tags
-      };
-    }),
-    total
-  };
-}
+async function scrapeAllListings(_testOnlyOnePage = false) {
+  console.log(`Fetching ${CAREER_URL}`);
+  const html = await fetchJobsHtml();
+  const { jobs, total } = parseHtmlJobs(html);
+  console.log(`Found ${total} jobs`);
 
-// ============================================================================
-// SCRAPING LOGIC - Paginated collection of all jobs
-// ============================================================================
-
-/**
- * Scrapes all job listings from EPAM by iterating through paginated API responses
- * @param {boolean} testOnlyOnePage - If true, stops after first page (for testing)
- * @returns {Promise<Array>} - Array of unique job objects
- */
-async function scrapeAllListings(testOnlyOnePage = false) {
-  const allJobs = [];
-  const seenUrls = new Set(); // Track seen URLs to avoid duplicates
-  let page = 1;
-  let totalJobs = 0;
-  const MAX_PAGES = 10; // Safety limit to prevent infinite loops
-
-  // Paginate through all job listings
-  while (true) {
-    console.log(`Fetching API page: ${page}`);
-    const data = await fetchJobsPage(page);
-    const result = parseApiJobs(data);
-    const jobs = result.jobs;
-
-    // Stop if no jobs found on this page
-    if (!jobs.length) {
-      console.log(`No jobs found on page ${page}, stopping.`);
-      break;
+  const seen = new Set();
+  const unique = [];
+  for (const job of jobs) {
+    if (!seen.has(job.url)) {
+      seen.add(job.url);
+      unique.push(job);
     }
-
-    // Capture total count from first page response
-    if (page === 1) {
-      totalJobs = result.total;
-      console.log(`Total jobs on site: ${totalJobs}`);
-    }
-
-    // Collect unique jobs (avoid duplicates across pages)
-    let newJobs = 0;
-    for (const job of jobs) {
-      if (!seenUrls.has(job.url)) {
-        seenUrls.add(job.url);
-        allJobs.push(job);
-        newJobs++;
-      }
-    }
-    console.log(`Page ${page}: ${jobs.length} jobs, ${newJobs} new (total: ${allJobs.length})`);
-
-    // Test mode: stop after first page
-    if (testOnlyOnePage) {
-      console.log("Test mode: stopping after page 1.");
-      break;
-    }
-
-    // Safety: stop after max pages
-    if (page >= MAX_PAGES) {
-      console.log(`Max pages (${MAX_PAGES}) reached, stopping.`);
-      break;
-    }
-
-    // Stop if no new jobs (we've seen everything)
-    if (newJobs === 0) {
-      console.log(`No new jobs on page ${page}, stopping.`);
-      break;
-    }
-
-    page += 1;
-    await sleep(1000); // Respectful delay between pages
   }
-
-  console.log(`Total unique jobs collected: ${allJobs.length}`);
-  return allJobs;
+  console.log(`Total unique jobs collected: ${unique.length}`);
+  return unique;
 }
 
 // ============================================================================
@@ -304,7 +255,7 @@ function transformJobsForSOLR(payload) {
  * Main function that orchestrates the complete scraping workflow:
  * 1. Check existing jobs in Solr
  * 2. Validate company via ANAF
- * 3. Scrape jobs from EPAM API
+ * 3. Scrape jobs from COERA endpoint
  * 4. Transform data for Solr
  * 5. Upsert jobs to Solr
  * 6. Report summary
@@ -321,7 +272,7 @@ async function main() {
     const existingResult = await querySOLR(COMPANY_CIF);
     const existingCount = existingResult.numFound;
     console.log(`Found ${existingCount} existing jobs in SOLR`);
-    console.log("(Keeping existing jobs - will upsert EPAM Careers jobs only)");
+    console.log("(Keeping existing jobs - will upsert COERA jobs only)");
 
     // Step 2: Validate company data via ANAF (ensures we have correct company info)
     console.log("=== Step 2: Validate company via ANAF ===");
@@ -346,17 +297,17 @@ async function main() {
       console.log(`Note: Could not upsert company to SOLR core: ${err.message}`);
     }
     
-    // Step 3: Scrape all jobs from EPAM Careers API
+    // Step 3: Scrape all jobs from co-era.com/careers
     const rawJobs = await scrapeAllListings(testOnlyOnePage);
     const scrapedCount = rawJobs.length;
-    console.log(`📊 Jobs scraped from EPAM Careers website: ${scrapedCount}`);
+    console.log(`📊 Jobs scraped from COERA careers website: ${scrapedCount}`);
 
     // Step 4: Map raw jobs to Solr model with CIF and company name
     const jobs = rawJobs.map(job => mapToJobModel(job, localCif));
 
     // Create payload with metadata
     const payload = {
-      source: "epam.com",
+      source: "co-era.com",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
       cif: localCif,
@@ -401,7 +352,7 @@ async function main() {
     const finalResult = await querySOLR(COMPANY_CIF);
     console.log(`\n📊 === SUMMARY ===`);
     console.log(`📊 Jobs existing in SOLR before scrape: ${existingCount}`);
-    console.log(`📊 Jobs scraped from EPAM website: ${scrapedCount}`);
+    console.log(`📊 Jobs scraped from COERA: ${scrapedCount}`);
     console.log(`📊 Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);
 
@@ -415,7 +366,7 @@ async function main() {
 }
 
 // Export functions for testing
-export { parseApiJobs, mapToJobModel, transformJobsForSOLR };
+export { parseHtmlJobs, mapToJobModel, transformJobsForSOLR };
 
 // Run main function when executed directly
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

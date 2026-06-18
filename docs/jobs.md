@@ -1,15 +1,15 @@
-# EPAM SYSTEMS INTERNATIONAL SRL
+# COERA BC SRL
 
 ## Company Info
 
 | Field | Value |
 |-------|-------|
-| CIF | 33159615 |
-| Brand | EPAM |
+| CIF | 32519996 |
+| Brand | COERA |
 | Status | activ |
 | Location | IANCU DE HUNEDOARA, 48, Bucureşti Sectorul 1, Bucureşti |
-| Website | [https://www.epam.com](https://www.epam.com) |
-| Careers | [https://careers.epam.com](https://careers.epam.com) |
+| Website | [https://www.co-era.com](https://www.co-era.com) |
+| Careers | [https://www.co-era.com](https://www.co-era.com) |
 | Last Scraped | 2026-06-17 |
 
 ## Current Job Listings (71)
@@ -18,7 +18,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Full Stack ABAP/UI5 Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-full-stack-abap-ui5-developer-blt0362ababb3b04a7c_en](https://careers.epam.com/en/vacancy/senior-full-stack-abap-ui5-developer-blt0362ababb3b04a7c_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-full-stack-abap-ui5-developer-blt0362ababb3b04a7c_en](https://www.co-era.com/en/vacancy/senior-full-stack-abap-ui5-developer-blt0362ababb3b04a7c_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap sapui5, abap, sapui5, sap crm technical, node.js
@@ -26,7 +26,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior/Lead SAP MM Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-lead-sap-mm-consultant-blt0a2c510a8b6ae82d_en](https://careers.epam.com/en/vacancy/senior-lead-sap-mm-consultant-blt0a2c510a8b6ae82d_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-lead-sap-mm-consultant-blt0a2c510a8b6ae82d_en](https://www.co-era.com/en/vacancy/senior-lead-sap-mm-consultant-blt0a2c510a8b6ae82d_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm)
@@ -34,7 +34,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Basis / System Solution Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-basis-system-solution-architect-blt0a99195bfaed0b49_en](https://careers.epam.com/en/vacancy/sap-basis-system-solution-architect-blt0a99195bfaed0b49_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-basis-system-solution-architect-blt0a99195bfaed0b49_en](https://www.co-era.com/en/vacancy/sap-basis-system-solution-architect-blt0a99195bfaed0b49_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap basis and devops, sap basis, sap hana db, sap maxdb, ibm db2
@@ -42,7 +42,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP UI5 Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-ui5-engineer-blt0e1aea0e0e7dffac_en](https://careers.epam.com/en/vacancy/senior-sap-ui5-engineer-blt0e1aea0e0e7dffac_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-ui5-engineer-blt0e1aea0e0e7dffac_en](https://www.co-era.com/en/vacancy/senior-sap-ui5-engineer-blt0e1aea0e0e7dffac_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap sapui5, json, git, qunit
@@ -50,7 +50,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead Power BI Analyst
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-power-bi-analyst-blt0ov97d57inmigl4f_en](https://careers.epam.com/en/vacancy/lead-power-bi-analyst-blt0ov97d57inmigl4f_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-power-bi-analyst-blt0ov97d57inmigl4f_en](https://www.co-era.com/en/vacancy/lead-power-bi-analyst-blt0ov97d57inmigl4f_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** data analytics and visualization, bi analysis, data management, data privacy, microsoft power bi, power bi platform administration, sql, life reinsurance, power bi architecture, sap bo, salesforce tableau
@@ -58,7 +58,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior AI Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-ai-engineer-blt16mne4xh3n6m96xd_en](https://careers.epam.com/en/vacancy/senior-ai-engineer-blt16mne4xh3n6m96xd_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-ai-engineer-blt16mne4xh3n6m96xd_en](https://www.co-era.com/en/vacancy/senior-ai-engineer-blt16mne4xh3n6m96xd_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** ai engineering
@@ -66,7 +66,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Data Technology Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/data-technology-consultant-blt197e51cfa32f17c7_en](https://careers.epam.com/en/vacancy/data-technology-consultant-blt197e51cfa32f17c7_en)
+- **URL:** [https://www.co-era.com/en/vacancy/data-technology-consultant-blt197e51cfa32f17c7_en](https://www.co-era.com/en/vacancy/data-technology-consultant-blt197e51cfa32f17c7_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data technology consulting, data & analytics, big data, data warehousing, cloud
@@ -74,7 +74,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Solution Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-solution-architect-blt1ed8341201fd9851_en](https://careers.epam.com/en/vacancy/senior-data-solution-architect-blt1ed8341201fd9851_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-solution-architect-blt1ed8341201fd9851_en](https://www.co-era.com/en/vacancy/senior-data-solution-architect-blt1ed8341201fd9851_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data solution architecture, solution architecture, cloud
@@ -82,7 +82,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Delivery Manager (Engagement Lead)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-delivery-manager-engagement-lead-blt1z0hdjtss4gmakkt_en](https://careers.epam.com/en/vacancy/senior-data-delivery-manager-engagement-lead-blt1z0hdjtss4gmakkt_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-delivery-manager-engagement-lead-blt1z0hdjtss4gmakkt_en](https://www.co-era.com/en/vacancy/senior-data-delivery-manager-engagement-lead-blt1z0hdjtss4gmakkt_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data delivery management
@@ -90,7 +90,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### AI Delivery Manager
 
-- **URL:** [https://careers.epam.com/en/vacancy/ai-delivery-manager-blt22fcf1oc66sw116c_en](https://careers.epam.com/en/vacancy/ai-delivery-manager-blt22fcf1oc66sw116c_en)
+- **URL:** [https://www.co-era.com/en/vacancy/ai-delivery-manager-blt22fcf1oc66sw116c_en](https://www.co-era.com/en/vacancy/ai-delivery-manager-blt22fcf1oc66sw116c_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** delivery management.ai, generative ai fundamentals, amazon web services, google cloud platform, databricks
@@ -98,7 +98,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead Data Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-data-engineer-blt2e7ymvcqn4xcnpag_en](https://careers.epam.com/en/vacancy/lead-data-engineer-blt2e7ymvcqn4xcnpag_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-data-engineer-blt2e7ymvcqn4xcnpag_en](https://www.co-era.com/en/vacancy/lead-data-engineer-blt2e7ymvcqn4xcnpag_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** data integration, amazon web services, apache airflow, apache kafka, ci/cd, python for data integration, sql, snowflake
@@ -106,7 +106,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Database Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-database-developer-blt2f09hchsnbytcent_en](https://careers.epam.com/en/vacancy/senior-database-developer-blt2f09hchsnbytcent_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-database-developer-blt2f09hchsnbytcent_en](https://www.co-era.com/en/vacancy/senior-database-developer-blt2f09hchsnbytcent_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data integration, aws aurora, aws database migration service, ms sql.sql, postgresql, t-sql
@@ -114,7 +114,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Logistics Consultant SD, S/4HANA
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt2shjafry3eqdztm4_en](https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt2shjafry3eqdztm4_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt2shjafry3eqdztm4_en](https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt2shjafry3eqdztm4_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), sap sales and distribution
@@ -122,7 +122,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Data Governance Consultant - Informatica Cloud
 
-- **URL:** [https://careers.epam.com/en/vacancy/data-governance-consultant-informatica-cloud-blt2x95tt0noii1lifb_en](https://careers.epam.com/en/vacancy/data-governance-consultant-informatica-cloud-blt2x95tt0noii1lifb_en)
+- **URL:** [https://www.co-era.com/en/vacancy/data-governance-consultant-informatica-cloud-blt2x95tt0noii1lifb_en](https://www.co-era.com/en/vacancy/data-governance-consultant-informatica-cloud-blt2x95tt0noii1lifb_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** business analytics consulting
@@ -130,7 +130,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Logistics Consultant SD, S/4HANA
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt3ru6uypbdwg3szz4_en](https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt3ru6uypbdwg3szz4_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt3ru6uypbdwg3szz4_en](https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blt3ru6uypbdwg3szz4_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), sap sales and distribution
@@ -138,7 +138,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Logistics Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-logistics-architect-blt4jnh7pmawhzrh26q_en](https://careers.epam.com/en/vacancy/sap-logistics-architect-blt4jnh7pmawhzrh26q_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-logistics-architect-blt4jnh7pmawhzrh26q_en](https://www.co-era.com/en/vacancy/sap-logistics-architect-blt4jnh7pmawhzrh26q_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap logistics (scm)
@@ -146,7 +146,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP FICO Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-fico-consultant-blt4lismih6xo9i26pk_en](https://careers.epam.com/en/vacancy/senior-sap-fico-consultant-blt4lismih6xo9i26pk_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-fico-consultant-blt4lismih6xo9i26pk_en](https://www.co-era.com/en/vacancy/senior-sap-fico-consultant-blt4lismih6xo9i26pk_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, ifrs, sap-fi: basic fi, sap-refx: measurements, atlassian jira, servicenow
@@ -154,7 +154,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Product Security Specialist
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-product-security-specialist-blt4tpyh8rayvcpeake_en](https://careers.epam.com/en/vacancy/senior-product-security-specialist-blt4tpyh8rayvcpeake_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-product-security-specialist-blt4tpyh8rayvcpeake_en](https://www.co-era.com/en/vacancy/senior-product-security-specialist-blt4tpyh8rayvcpeake_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** security.engineering, devsecops, security compliances, security governance, security architecture
@@ -162,7 +162,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP MDG Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-mdg-consultant-blt56be081bac442c32_en](https://careers.epam.com/en/vacancy/senior-sap-mdg-consultant-blt56be081bac442c32_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-mdg-consultant-blt56be081bac442c32_en](https://www.co-era.com/en/vacancy/senior-sap-mdg-consultant-blt56be081bac442c32_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap mdm/mdg
@@ -170,7 +170,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### CTO / Principal Solution Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/cto-principal-solution-architect-blt5kg1wa90kpalxuzp_en](https://careers.epam.com/en/vacancy/cto-principal-solution-architect-blt5kg1wa90kpalxuzp_en)
+- **URL:** [https://www.co-era.com/en/vacancy/cto-principal-solution-architect-blt5kg1wa90kpalxuzp_en](https://www.co-era.com/en/vacancy/cto-principal-solution-architect-blt5kg1wa90kpalxuzp_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** solution architecture
@@ -178,7 +178,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead SAP FICO Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-sap-fico-consultant-blt6604cb4132cc6e3a_en](https://careers.epam.com/en/vacancy/lead-sap-fico-consultant-blt6604cb4132cc6e3a_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-sap-fico-consultant-blt6604cb4132cc6e3a_en](https://www.co-era.com/en/vacancy/lead-sap-fico-consultant-blt6604cb4132cc6e3a_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap fico
@@ -186,7 +186,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP HANA Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-hana-developer-blt67372560c140a3d7_en](https://careers.epam.com/en/vacancy/senior-sap-hana-developer-blt67372560c140a3d7_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-hana-developer-blt67372560c140a3d7_en](https://www.co-era.com/en/vacancy/senior-sap-hana-developer-blt67372560c140a3d7_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap hana platform, sap web ide, atlassian confluence, atlassian jira
@@ -194,7 +194,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP MM/SD Consulting Team Lead
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-mm-sd-consulting-team-lead-blt6f76fe9f472672ac_en](https://careers.epam.com/en/vacancy/sap-mm-sd-consulting-team-lead-blt6f76fe9f472672ac_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-mm-sd-consulting-team-lead-blt6f76fe9f472672ac_en](https://www.co-era.com/en/vacancy/sap-mm-sd-consulting-team-lead-blt6f76fe9f472672ac_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), erp, sap, communication
@@ -202,7 +202,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior ABAP Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en](https://careers.epam.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en](https://www.co-era.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap abap
@@ -210,7 +210,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Presales Solution Consultant – Data and AI
 
-- **URL:** [https://careers.epam.com/en/vacancy/presales-solution-consultant-data-and-ai-blt792827nrlotetup2_en](https://careers.epam.com/en/vacancy/presales-solution-consultant-data-and-ai-blt792827nrlotetup2_en)
+- **URL:** [https://www.co-era.com/en/vacancy/presales-solution-consultant-data-and-ai-blt792827nrlotetup2_en](https://www.co-era.com/en/vacancy/presales-solution-consultant-data-and-ai-blt792827nrlotetup2_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** presales consulting
@@ -218,7 +218,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior/Lead SAP Logistics VIM Consultant with Coupa expertise
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-lead-sap-logistics-vim-consultant-with-coupa-expertise-blt90cf14088bf36d91_en](https://careers.epam.com/en/vacancy/senior-lead-sap-logistics-vim-consultant-with-coupa-expertise-blt90cf14088bf36d91_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-lead-sap-logistics-vim-consultant-with-coupa-expertise-blt90cf14088bf36d91_en](https://www.co-era.com/en/vacancy/senior-lead-sap-logistics-vim-consultant-with-coupa-expertise-blt90cf14088bf36d91_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), sap vim, coupa - procurement
@@ -226,7 +226,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior/Lead SAP OpenText VIM Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-lead-sap-opentext-vim-consultant-blt99e25310c2dc79a9_en](https://careers.epam.com/en/vacancy/senior-lead-sap-opentext-vim-consultant-blt99e25310c2dc79a9_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-lead-sap-opentext-vim-consultant-blt99e25310c2dc79a9_en](https://www.co-era.com/en/vacancy/senior-lead-sap-opentext-vim-consultant-blt99e25310c2dc79a9_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), opentext extended ecm for sap solutions, sap hana platform
@@ -234,7 +234,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Engineering Manager, SAP CAP Java
 
-- **URL:** [https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-java-blt9zyqn6qivsd5hy2y_en](https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-java-blt9zyqn6qivsd5hy2y_en)
+- **URL:** [https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-java-blt9zyqn6qivsd5hy2y_en](https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-java-blt9zyqn6qivsd5hy2y_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap java
@@ -242,7 +242,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Quality Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-quality-engineer-blta9or02umn0m0bec0_en](https://careers.epam.com/en/vacancy/senior-data-quality-engineer-blta9or02umn0m0bec0_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-quality-engineer-blta9or02umn0m0bec0_en](https://www.co-era.com/en/vacancy/senior-data-quality-engineer-blta9or02umn0m0bec0_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** data quality engineering, data & analytics program, data analysis, data quality, databricks, microsoft azure
@@ -250,7 +250,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### GCP Cloud Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/gcp-cloud-architect-bltaumkxatm87xucjso_en](https://careers.epam.com/en/vacancy/gcp-cloud-architect-bltaumkxatm87xucjso_en)
+- **URL:** [https://www.co-era.com/en/vacancy/gcp-cloud-architect-bltaumkxatm87xucjso_en](https://www.co-era.com/en/vacancy/gcp-cloud-architect-bltaumkxatm87xucjso_en)
 - **Work Mode:** on-site
 - **Location:** România
 - **Tags:** systems architecture
@@ -258,7 +258,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Engineer (Azure Fabric, PySpark with AI Skills)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-engineer-azure-fabric-pyspark-with-ai-skills-bltbdzny1o3891u6pex_en](https://careers.epam.com/en/vacancy/senior-data-engineer-azure-fabric-pyspark-with-ai-skills-bltbdzny1o3891u6pex_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-engineer-azure-fabric-pyspark-with-ai-skills-bltbdzny1o3891u6pex_en](https://www.co-era.com/en/vacancy/senior-data-engineer-azure-fabric-pyspark-with-ai-skills-bltbdzny1o3891u6pex_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** data integration, azure data factory, azure functions, azure synapse analytics, devops, microsoft fabric, pyspark, apache kafka, azure blob storage, ci/cd, data lakehouse, etl/elt solutions, ms sql db development, sql
@@ -266,7 +266,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Salesforce Delivery Manager
 
-- **URL:** [https://careers.epam.com/en/vacancy/salesforce-delivery-manager-bltbmk7i58ip5ohrb0v_en](https://careers.epam.com/en/vacancy/salesforce-delivery-manager-bltbmk7i58ip5ohrb0v_en)
+- **URL:** [https://www.co-era.com/en/vacancy/salesforce-delivery-manager-bltbmk7i58ip5ohrb0v_en](https://www.co-era.com/en/vacancy/salesforce-delivery-manager-bltbmk7i58ip5ohrb0v_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** delivery management, salesforce
@@ -274,7 +274,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Global Power Platform Power Apps Governance Administrator
 
-- **URL:** [https://careers.epam.com/en/vacancy/global-power-platform-power-apps-governance-administrator-bltcfu4gmg6y4a54w8m_en](https://careers.epam.com/en/vacancy/global-power-platform-power-apps-governance-administrator-bltcfu4gmg6y4a54w8m_en)
+- **URL:** [https://www.co-era.com/en/vacancy/global-power-platform-power-apps-governance-administrator-bltcfu4gmg6y4a54w8m_en](https://www.co-era.com/en/vacancy/global-power-platform-power-apps-governance-administrator-bltcfu4gmg6y4a54w8m_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** microsoft power apps, data governance, microsoft dataverse, microsoft entra id, microsoft fabric
@@ -282,7 +282,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP FICO Consultant with DRC expertise
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-fico-consultant-with-drc-expertise-bltcljn468t0chpx7c0_en](https://careers.epam.com/en/vacancy/senior-sap-fico-consultant-with-drc-expertise-bltcljn468t0chpx7c0_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-fico-consultant-with-drc-expertise-bltcljn468t0chpx7c0_en](https://www.co-era.com/en/vacancy/senior-sap-fico-consultant-with-drc-expertise-bltcljn468t0chpx7c0_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, sap financial accounting, gaap accounting, sap business technology platform, sap controlling
@@ -290,7 +290,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP FICA Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-fica-consultant-bltd2m3up6s7e073kg5_en](https://careers.epam.com/en/vacancy/senior-sap-fica-consultant-bltd2m3up6s7e073kg5_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-fica-consultant-bltd2m3up6s7e073kg5_en](https://www.co-era.com/en/vacancy/senior-sap-fica-consultant-bltd2m3up6s7e073kg5_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, sap, e-commerce
@@ -298,7 +298,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead Data Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-data-engineer-bltd76d7f15df8b5c11_en](https://careers.epam.com/en/vacancy/lead-data-engineer-bltd76d7f15df8b5c11_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-data-engineer-bltd76d7f15df8b5c11_en](https://www.co-era.com/en/vacancy/lead-data-engineer-bltd76d7f15df8b5c11_en)
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Tags:** data software engineering, azure data factory, azure data lake analytics, databricks, engineering, microsoft azure, pyspark, python
@@ -306,7 +306,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP FICO Engineering Manager
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-fico-engineering-manager-blte2ub1rh2x71vyith_en](https://careers.epam.com/en/vacancy/sap-fico-engineering-manager-blte2ub1rh2x71vyith_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-fico-engineering-manager-blte2ub1rh2x71vyith_en](https://www.co-era.com/en/vacancy/sap-fico-engineering-manager-blte2ub1rh2x71vyith_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico
@@ -314,7 +314,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP SD Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-sd-consultant-bltebbff048f888db47_en](https://careers.epam.com/en/vacancy/senior-sap-sd-consultant-bltebbff048f888db47_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-sd-consultant-bltebbff048f888db47_en](https://www.co-era.com/en/vacancy/senior-sap-sd-consultant-bltebbff048f888db47_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm)
@@ -322,7 +322,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead DevOps Engineer (EUC)
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-devops-engineer-euc-blteenmvj9mduvzpq3s_en](https://careers.epam.com/en/vacancy/lead-devops-engineer-euc-blteenmvj9mduvzpq3s_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-devops-engineer-euc-blteenmvj9mduvzpq3s_en](https://www.co-era.com/en/vacancy/lead-devops-engineer-euc-blteenmvj9mduvzpq3s_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** microsoft 365 engineering, active directory, azure virtual desktop, devsecops, microsoft 365, microsoft intune, agile
@@ -330,7 +330,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior/Lead SAP CAP Node.JS Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-lead-sap-cap-node-js-developer-bltf15487baa78c9a4f_en](https://careers.epam.com/en/vacancy/senior-lead-sap-cap-node-js-developer-bltf15487baa78c9a4f_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-lead-sap-cap-node-js-developer-bltf15487baa78c9a4f_en](https://www.co-era.com/en/vacancy/senior-lead-sap-cap-node-js-developer-bltf15487baa78c9a4f_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap cap based node.js, sapui5, agile, javascript
@@ -338,7 +338,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Chief SAP FICO Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/chief-sap-fico-consultant-bltf9df9u0mq8ha9wmn_en](https://careers.epam.com/en/vacancy/chief-sap-fico-consultant-bltf9df9u0mq8ha9wmn_en)
+- **URL:** [https://www.co-era.com/en/vacancy/chief-sap-fico-consultant-bltf9df9u0mq8ha9wmn_en](https://www.co-era.com/en/vacancy/chief-sap-fico-consultant-bltf9df9u0mq8ha9wmn_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, ifrs, sap-fi: basic fi, sap-refx: measurements, atlassian jira, servicenow
@@ -346,7 +346,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Data Science Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/data-science-consultant-bltfa8d9dca48d45783_en](https://careers.epam.com/en/vacancy/data-science-consultant-bltfa8d9dca48d45783_en)
+- **URL:** [https://www.co-era.com/en/vacancy/data-science-consultant-bltfa8d9dca48d45783_en](https://www.co-era.com/en/vacancy/data-science-consultant-bltfa8d9dca48d45783_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data science consulting, scrum, kanban, mlops, docker, kubernetes, github, numpy, pandas, tensorflow
@@ -354,7 +354,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP CPQ Consultant (Market2Cash)
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-cpq-consultant-market2cash-bltgjfmzuevhkn7emxm_en](https://careers.epam.com/en/vacancy/sap-cpq-consultant-market2cash-bltgjfmzuevhkn7emxm_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-cpq-consultant-market2cash-bltgjfmzuevhkn7emxm_en](https://www.co-era.com/en/vacancy/sap-cpq-consultant-market2cash-bltgjfmzuevhkn7emxm_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap crm, sap cpq, sap customer experience, mendix, sap hana cloud, sap ibp
@@ -362,7 +362,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Automation Engineer in Python
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-automation-engineer-in-python-bltixhumsloi2y0cdzg_en](https://careers.epam.com/en/vacancy/senior-automation-engineer-in-python-bltixhumsloi2y0cdzg_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-automation-engineer-in-python-bltixhumsloi2y0cdzg_en](https://www.co-era.com/en/vacancy/senior-automation-engineer-in-python-bltixhumsloi2y0cdzg_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** automated testing in python, continuous integration development & maintenance, pytest, python, robot framework, web services
@@ -370,7 +370,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead CyberArk Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-cyberark-engineer-bltj5lzputfikio7tpb_en](https://careers.epam.com/en/vacancy/lead-cyberark-engineer-bltj5lzputfikio7tpb_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-cyberark-engineer-bltj5lzputfikio7tpb_en](https://www.co-era.com/en/vacancy/lead-cyberark-engineer-bltj5lzputfikio7tpb_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** security.engineering, cyberark customer identity, powershell, privileged access management (pam)
@@ -378,7 +378,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Engineering Manager, SAP CAP Node.js
 
-- **URL:** [https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-node-js-bltjct6zgzxvv4ma6zs_en](https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-node-js-bltjct6zgzxvv4ma6zs_en)
+- **URL:** [https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-node-js-bltjct6zgzxvv4ma6zs_en](https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-node-js-bltjct6zgzxvv4ma6zs_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap cap based node.js
@@ -386,7 +386,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Consultant - Data Management & Governance
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-consultant-data-management-governance-bltjgeey7htze9shvh2_en](https://careers.epam.com/en/vacancy/senior-consultant-data-management-governance-bltjgeey7htze9shvh2_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-consultant-data-management-governance-bltjgeey7htze9shvh2_en](https://www.co-era.com/en/vacancy/senior-consultant-data-management-governance-bltjgeey7htze9shvh2_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** business analytics consulting
@@ -394,7 +394,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Python Full Stack Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-python-full-stack-developer-bltkt3v4p12tlm1calb_en](https://careers.epam.com/en/vacancy/senior-python-full-stack-developer-bltkt3v4p12tlm1calb_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-python-full-stack-developer-bltkt3v4p12tlm1calb_en](https://www.co-era.com/en/vacancy/senior-python-full-stack-developer-bltkt3v4p12tlm1calb_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** python.core, angular, css, flask, html, python, typescript, ngrx
@@ -402,7 +402,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Unified Endpoint Management (UEM) Tech Lead
 
-- **URL:** [https://careers.epam.com/en/vacancy/unified-endpoint-management-uem-tech-lead-bltlhsawuviqc7nox6a_en](https://careers.epam.com/en/vacancy/unified-endpoint-management-uem-tech-lead-bltlhsawuviqc7nox6a_en)
+- **URL:** [https://www.co-era.com/en/vacancy/unified-endpoint-management-uem-tech-lead-bltlhsawuviqc7nox6a_en](https://www.co-era.com/en/vacancy/unified-endpoint-management-uem-tech-lead-bltlhsawuviqc7nox6a_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** endpoint solutions, microsoft endpoint manager, microsoft intune, microsoft windows, powershell
@@ -410,7 +410,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAP Retail Master Data Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-retail-master-data-consultant-bltmkr4n8dz3xksa3i9_en](https://careers.epam.com/en/vacancy/senior-sap-retail-master-data-consultant-bltmkr4n8dz3xksa3i9_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sap-retail-master-data-consultant-bltmkr4n8dz3xksa3i9_en](https://www.co-era.com/en/vacancy/senior-sap-retail-master-data-consultant-bltmkr4n8dz3xksa3i9_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap mdm/mdg, sap retail master data, sap-is: retail solutions
@@ -418,7 +418,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead SAP FICO Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-sap-fico-consultant-bltmyyn3rcoeqyfgnbu_en](https://careers.epam.com/en/vacancy/lead-sap-fico-consultant-bltmyyn3rcoeqyfgnbu_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-sap-fico-consultant-bltmyyn3rcoeqyfgnbu_en](https://www.co-era.com/en/vacancy/lead-sap-fico-consultant-bltmyyn3rcoeqyfgnbu_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, ifrs, sap-fi: basic fi, sap-refx: measurements, atlassian jira, servicenow
@@ -426,7 +426,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Automation Tester in Java
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-automation-tester-in-java-bltopaeb6k18qe4fztm_en](https://careers.epam.com/en/vacancy/senior-automation-tester-in-java-bltopaeb6k18qe4fztm_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-automation-tester-in-java-bltopaeb6k18qe4fztm_en](https://www.co-era.com/en/vacancy/senior-automation-tester-in-java-bltopaeb6k18qe4fztm_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** automated testing in java, git, java, postman, sdlc methodologies, sql, test design techniques, amazon web services, cucumber, reactjs, zephyr enterprise
@@ -434,7 +434,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP FI-CA Consultant
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-fi-ca-consultant-bltotryu8p9ok42z18e_en](https://careers.epam.com/en/vacancy/sap-fi-ca-consultant-bltotryu8p9ok42z18e_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-fi-ca-consultant-bltotryu8p9ok42z18e_en](https://www.co-era.com/en/vacancy/sap-fi-ca-consultant-bltotryu8p9ok42z18e_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico, sap, e-commerce
@@ -442,7 +442,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Technical Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/technical-architect-bltqadf3wk8kwg7pnrf_en](https://careers.epam.com/en/vacancy/technical-architect-bltqadf3wk8kwg7pnrf_en)
+- **URL:** [https://www.co-era.com/en/vacancy/technical-architect-bltqadf3wk8kwg7pnrf_en](https://www.co-era.com/en/vacancy/technical-architect-bltqadf3wk8kwg7pnrf_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** enterprise architecture, integration architecture, microsoft azure, systems architecture
@@ -450,7 +450,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Engineering Manager, SAP CAP Java
 
-- **URL:** [https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-java-bltr69n7egotetwwtzn_en](https://careers.epam.com/en/vacancy/engineering-manager-sap-cap-java-bltr69n7egotetwwtzn_en)
+- **URL:** [https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-java-bltr69n7egotetwwtzn_en](https://www.co-era.com/en/vacancy/engineering-manager-sap-cap-java-bltr69n7egotetwwtzn_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap java
@@ -458,7 +458,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Software Engineer (Azure Identity)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-software-engineer-azure-identity-bltrbwtmg8heu955cvm_en](https://careers.epam.com/en/vacancy/senior-software-engineer-azure-identity-bltrbwtmg8heu955cvm_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-software-engineer-azure-identity-bltrbwtmg8heu955cvm_en](https://www.co-era.com/en/vacancy/senior-software-engineer-azure-identity-bltrbwtmg8heu955cvm_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** identity and access management, azure identity
@@ -466,7 +466,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-engineer-bltrc36tfn1jd84pjft_en](https://careers.epam.com/en/vacancy/senior-data-engineer-bltrc36tfn1jd84pjft_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-engineer-bltrc36tfn1jd84pjft_en](https://www.co-era.com/en/vacancy/senior-data-engineer-bltrc36tfn1jd84pjft_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** data integration, azure data factory, data modeling, databricks, etl/elt solutions, monitoring tools, sql
@@ -474,7 +474,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Supply Chain Architect (Supply Chain IT Product)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-supply-chain-architect-supply-chain-it-product-bltrizzf9u0hziot1y1_en](https://careers.epam.com/en/vacancy/senior-supply-chain-architect-supply-chain-it-product-bltrizzf9u0hziot1y1_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-supply-chain-architect-supply-chain-it-product-bltrizzf9u0hziot1y1_en](https://www.co-era.com/en/vacancy/senior-supply-chain-architect-supply-chain-it-product-bltrizzf9u0hziot1y1_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** enterprise architecture, apache kafka, mulesoft, sap commerce fulfilment, supply chain operations
@@ -482,7 +482,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### ServiceNow Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/servicenow-architect-bltrqxs1i0zvjwlkb0a_en](https://careers.epam.com/en/vacancy/servicenow-architect-bltrqxs1i0zvjwlkb0a_en)
+- **URL:** [https://www.co-era.com/en/vacancy/servicenow-architect-bltrqxs1i0zvjwlkb0a_en](https://www.co-era.com/en/vacancy/servicenow-architect-bltrqxs1i0zvjwlkb0a_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** servicenow, analysis, communication
@@ -490,7 +490,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Software Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-software-engineer-blts6p3q2tbfliic17e_en](https://careers.epam.com/en/vacancy/senior-data-software-engineer-blts6p3q2tbfliic17e_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-software-engineer-blts6p3q2tbfliic17e_en](https://www.co-era.com/en/vacancy/senior-data-software-engineer-blts6p3q2tbfliic17e_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** data software engineering, databricks, pyspark, devops, infrastructure as code development and maintenance, microsoft azure, microsoft sql server
@@ -498,7 +498,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Logistics (SCM) Engineering Manager
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-logistics-scm-engineering-manager-bltsdfwaeix5mu475ix_en](https://careers.epam.com/en/vacancy/sap-logistics-scm-engineering-manager-bltsdfwaeix5mu475ix_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-logistics-scm-engineering-manager-bltsdfwaeix5mu475ix_en](https://www.co-era.com/en/vacancy/sap-logistics-scm-engineering-manager-bltsdfwaeix5mu475ix_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** product management, sap logistics (scm)
@@ -506,7 +506,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead Backend Developer (C Language)
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-backend-developer-c-language-bltslcfiko61a64q370_en](https://careers.epam.com/en/vacancy/lead-backend-developer-c-language-bltslcfiko61a64q370_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-backend-developer-c-language-bltslcfiko61a64q370_en](https://www.co-era.com/en/vacancy/lead-backend-developer-c-language-bltslcfiko61a64q370_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** c programming, c language, linux, sql, unix shell scripting
@@ -514,7 +514,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Power Apps Developer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-power-apps-developer-bltt9b066eib7ul5mxi_en](https://careers.epam.com/en/vacancy/senior-power-apps-developer-bltt9b066eib7ul5mxi_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-power-apps-developer-bltt9b066eib7ul5mxi_en](https://www.co-era.com/en/vacancy/senior-power-apps-developer-bltt9b066eib7ul5mxi_en)
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Tags:** microsoft power apps, microsoft canvas apps, microsoft dataverse, microsoft entra id, power automate, microsoft fabric
@@ -522,7 +522,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP R2R Architect
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-r2r-architect-blttchu6xlmvveaidf7_en](https://careers.epam.com/en/vacancy/sap-r2r-architect-blttchu6xlmvveaidf7_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-r2r-architect-blttchu6xlmvveaidf7_en](https://www.co-era.com/en/vacancy/sap-r2r-architect-blttchu6xlmvveaidf7_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** sap fico
@@ -530,7 +530,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### SAP Logistics Consultant SD, S/4HANA
 
-- **URL:** [https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blttkxrsqhevcm26ybv_en](https://careers.epam.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blttkxrsqhevcm26ybv_en)
+- **URL:** [https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blttkxrsqhevcm26ybv_en](https://www.co-era.com/en/vacancy/sap-logistics-consultant-sd-s-4hana-blttkxrsqhevcm26ybv_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), sap sales and distribution
@@ -538,7 +538,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Full-stack Developer (Python + React)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-full-stack-developer-python-react-bltty4bayhomh4bcdsc_en](https://careers.epam.com/en/vacancy/senior-full-stack-developer-python-react-bltty4bayhomh4bcdsc_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-full-stack-developer-python-react-bltty4bayhomh4bcdsc_en](https://www.co-era.com/en/vacancy/senior-full-stack-developer-python-react-bltty4bayhomh4bcdsc_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** python.core, docker, fastapi, microsoft azure, python, reactjs, sql, kubernetes, playwright, terraform
@@ -546,7 +546,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Data Engineer (Cosmos DB)
 
-- **URL:** [https://careers.epam.com/en/vacancy/data-engineer-cosmos-db-bltuyptdla45khu5jud_en](https://careers.epam.com/en/vacancy/data-engineer-cosmos-db-bltuyptdla45khu5jud_en)
+- **URL:** [https://www.co-era.com/en/vacancy/data-engineer-cosmos-db-bltuyptdla45khu5jud_en](https://www.co-era.com/en/vacancy/data-engineer-cosmos-db-bltuyptdla45khu5jud_en)
 - **Work Mode:** remote
 - **Location:** Bucharest
 - **Tags:** data integration, azure cosmos db, azure sql, microsoft azure, microsoft fabric
@@ -554,7 +554,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead DevOps Engineer (EUC)
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-devops-engineer-euc-bltvb3n9udmb3svgpte_en](https://careers.epam.com/en/vacancy/lead-devops-engineer-euc-bltvb3n9udmb3svgpte_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-devops-engineer-euc-bltvb3n9udmb3svgpte_en](https://www.co-era.com/en/vacancy/lead-devops-engineer-euc-bltvb3n9udmb3svgpte_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** microsoft 365 engineering, active directory, azure virtual desktop, devsecops, microsoft 365, microsoft intune, agile
@@ -562,7 +562,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Lead Automation Tester in Python
 
-- **URL:** [https://careers.epam.com/en/vacancy/lead-automation-tester-in-python-bltypx3t0jqz34cgp0f_en](https://careers.epam.com/en/vacancy/lead-automation-tester-in-python-bltypx3t0jqz34cgp0f_en)
+- **URL:** [https://www.co-era.com/en/vacancy/lead-automation-tester-in-python-bltypx3t0jqz34cgp0f_en](https://www.co-era.com/en/vacancy/lead-automation-tester-in-python-bltypx3t0jqz34cgp0f_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** automated testing in python, microsoft azure, pytest, python, robot framework, selenium, amazon web services, web services
@@ -570,7 +570,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior Data Engineer
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-data-engineer-bltzqz4qdnmvodrfax8_en](https://careers.epam.com/en/vacancy/senior-data-engineer-bltzqz4qdnmvodrfax8_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-data-engineer-bltzqz4qdnmvodrfax8_en](https://www.co-era.com/en/vacancy/senior-data-engineer-bltzqz4qdnmvodrfax8_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** data software engineering, etl/elt solutions, microsoft azure, pyspark, python, sql, terraform, ci/cd, databricks
@@ -578,7 +578,7 @@ _Generated: 2026-06-17T13:41:21.692Z_
 
 ### Senior SAPUI5/BTP Developer (relocation to Cyprus)
 
-- **URL:** [https://careers.epam.com/en/vacancy/senior-sapui5-btp-developer-relocation-to-cyprus-blt8gr4d522n8hs04ql_en](https://careers.epam.com/en/vacancy/senior-sapui5-btp-developer-relocation-to-cyprus-blt8gr4d522n8hs04ql_en)
+- **URL:** [https://www.co-era.com/en/vacancy/senior-sapui5-btp-developer-relocation-to-cyprus-blt8gr4d522n8hs04ql_en](https://www.co-era.com/en/vacancy/senior-sapui5-btp-developer-relocation-to-cyprus-blt8gr4d522n8hs04ql_en)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap sapui5, data science

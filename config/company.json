@@ -1,11 +1,10 @@
 {
-  "cif": "33159615",
-  "legalName": "EPAM SYSTEMS INTERNATIONAL SRL",
-  "brand": "EPAM",
-  "website": "https://www.epam.com",
-  "careerUrl": "https://careers.epam.com",
-  "apiBase": "https://careers.epam.com",
-  "apiCountryId": "8150000000000001155",
-  "defaultLocation": "București",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/epam-systems-international-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "cif": "32519996",
+  "legalName": "COERA BC SRL",
+  "brand": "COERA",
+  "website": "https://co-era.com",
+  "careerUrl": "https://www.co-era.com/careers/",
+  "apiBase": "https://www.co-era.com",
+  "defaultLocation": "Cluj-Napoca",
+  "scraperFile": "https://raw.githubusercontent.com/sebiboga/coera-bc-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }
