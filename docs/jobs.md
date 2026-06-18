@@ -14,7 +14,7 @@
 
 ## Current Job Listings (2)
 
-_Generated: 2026-06-18T11:27:03.197Z_
+_Generated: 2026-06-18T11:30:44.106Z_
 
 ### Summer Practice Program in Software Engineering
 
