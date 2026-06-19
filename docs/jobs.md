@@ -10,11 +10,11 @@
 | Location | Tăietura Turcului, 24, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://co-era.com](https://co-era.com) |
 | Careers | [https://www.co-era.com/careers/](https://www.co-era.com/careers/) |
-| Last Scraped | 2026-06-18 |
+| Last Scraped | 2026-06-19 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-06-18T11:30:44.106Z_
+_Generated: 2026-06-19T10:52:24.148Z_
 
 ### Summer Practice Program in Software Engineering
 
