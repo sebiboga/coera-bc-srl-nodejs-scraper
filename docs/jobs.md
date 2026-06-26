@@ -10,11 +10,11 @@
 | Location | Tăietura Turcului, 24, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://co-era.com](https://co-era.com) |
 | Careers | [https://www.co-era.com/careers/](https://www.co-era.com/careers/) |
-| Last Scraped | 2026-06-25 |
+| Last Scraped | 2026-06-26 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-06-25T09:37:20.922Z_
+_Generated: 2026-06-26T09:43:10.439Z_
 
 ### Go beyond for your role!
 
